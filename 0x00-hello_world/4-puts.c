@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /** 
-*a C program that prints exactly Programming is like building a multilingual puzzlturn
+*This  C program that prints exactly Programming is like building a multilingual puzzlturn
+*Description is Okay
 */
- int main(void)
+int main(void)
 {  
     puts("\"Programming is like building a multilingual puzzle");
     return (0);
