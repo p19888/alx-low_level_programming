@@ -3,7 +3,7 @@
  *_puts - prints a string
  * @str: string to print
  *
- * Description: prints a string
+ * Description: prints  string
  * On success: return the number of characters printed
  */
 
