@@ -1,6 +1,7 @@
-Write a function that fills memory with a constant byte.
-
-    Prototype: char *_memset(char *s, char b, unsigned int n);
-    The _memset() function fills the first n bytes of the memory area pointed to by s with the constant byte b
-    Returns a pointer to the memory area s
-
+Allowed editors: vi, vim, emacs
+All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+All your files should end with a new line
+A README.md file, at the root of the folder of the project is mandatory
+Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+You are not allowed to use global variables
+No more than 5 functions per file
