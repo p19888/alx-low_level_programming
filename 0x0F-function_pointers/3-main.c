@@ -1,26 +1,3 @@
-3-main.c.txt
-Who has access
-A
-System properties
-Type
-Text
-Size
-532 bytes
-Storage used
-1 KB
-Location
-0x0F-function_pointers
-Owner
-Antony Bahati
-Modified
-9:53 PM by Antony Bahati
-Opened
-10:25 PM by me
-Created
-1:45 PM
-No description
-Viewers can download
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "3-calc.h"
