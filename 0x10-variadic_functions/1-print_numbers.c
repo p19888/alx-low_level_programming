@@ -9,7 +9,7 @@
  *
  * Return: void
  */ 
-void print_numbers(const char *separatot, const unsigned int n, ...)
+void print_numbers(const char *separator, const unsigned int n, ...)
 {
        unsigned int i;
        int num;
