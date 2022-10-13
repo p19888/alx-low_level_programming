@@ -4,8 +4,8 @@
 
 /**
  * print_numbers - prints numbers, followed by a new line.
- * @n: number of numbers to print
- * @separator:separator to print between numbrs
+ * @n: number of numbers to print.
+ * @separator: separator to print between numbers.
  *
  * Return: void
  */ 
