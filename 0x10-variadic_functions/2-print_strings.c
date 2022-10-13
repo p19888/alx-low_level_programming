@@ -3,13 +3,13 @@
 #include "variadic_functions.h"
 
 /**
- * print_numbers - prints numbers, followed by a new line.
+ * print_strings - prints strings, followed by a new line.
  * @separator:separator to print between strings.
  * @n: number of strings to print.
  *
  * Return: void
  */
-void print_strings(const char *separatot, const unsigned int n, ...) 
+void print_strings(const char *separator const unsigned int n, ...) 
 {
        unsigned int i;
        int *str;
